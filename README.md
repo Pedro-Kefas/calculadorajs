@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto feito para realizar calculos de matemática básica. 
 
-- [Acesse o projeto finalizado on-line]()
+- [Acesse o meu server de Disord](https://discord.gg/Uk8Qgtwgqs)
 
 ---
 
